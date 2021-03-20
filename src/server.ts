@@ -16,8 +16,10 @@ yarn add sqlite3
 yarn typeorm
 yarn add jest @types/jest -
 yarn add supertest @types/supertest -D
-yarn add nodemailer
+yarn add nodemailers
 yarn add @types/nodemailer -D
+yarn add yup
+yarn add express-async-errors
 
 yarn add handlebars
 
